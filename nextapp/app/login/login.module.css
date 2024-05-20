@@ -1,0 +1,29 @@
+.header {
+  color: #ffcb00;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.form_section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 700px;
+  margin: 30px auto;
+  border: 2px solid #ffcb00;
+  padding: 30px;
+}
+.form_container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.login_form {
+  width: 40%;
+  margin: 10% auto;
+  padding: 30px;
+  border: 2px solid #ffcb00;
+}
+.registerbtn {
+  cursor: pointer;
+}

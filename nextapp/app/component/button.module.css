@@ -1,0 +1,13 @@
+.registerbtn {
+  width: 200px;
+  margin: 0 auto;
+  padding: 10px 30px;
+  background-color: #ffcb00;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 26px;
+  border: 1px solid #ffcb00;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
