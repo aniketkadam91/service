@@ -5,8 +5,8 @@ import "./globals.css";
 import { Providers } from "./redux/provider";
 
 export const metadata = {
-  title: "NextLevel Food",
-  description: "Delicious meals, shared by a food-loving community.",
+  title: "NextJS App",
+  description: "Next JS and Wordpress demo application",
 };
 
 export default function RootLayout({ children }) {
